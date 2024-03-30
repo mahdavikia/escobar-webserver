@@ -6,6 +6,6 @@
 ## Execute:
 ### ./escobar
 ## Escobar execute in console:
-![Alt Escobar execute console](image https://i.postimg.cc/sDLbHhg9/Escobar-Console.jpg)
+![Escobar execute console](https://i.postimg.cc/sDLbHhg9/Escobar-Console.jpg)
 ## Escobar execute static web page (html) in browser:
-![Alt EEscobar execute static web page (html) in browser](image https://i.postimg.cc/rFsv9JMw/Escobar-Run.jpg)
+![Escobar execute static web page (html) in browser](https://i.postimg.cc/rFsv9JMw/Escobar-Run.jpg)
