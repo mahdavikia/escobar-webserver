@@ -1,11 +1,17 @@
 # Escobar Webserver Project
-### written in C
-### Build & tested in Linux Ubuntu
+### ------------ Why Escobar? --------------
+#### This code was developed while I was re-watching Narcos. The names of Escobar, Cali, Madeleine and Los Pepes are borrowed from this series :)
+#### This program uses the socket programmer method; It creates a web server and has limitations. First, it only responds to - requests and does not take any parameters. Second, it is designed only for static pages. Definitely, by developing this-
+#### code, many features can be added to it.
+#### It is necessary to explain that the development of this code was done by studying open sources available on the Internet.
+#### --------------------------------------
+#### written in C
+#### Build & tested in Linux Ubuntu
 ## Compile:
-### gcc -Wall -Wextra -g -o escobar escobar.c
+#### gcc -Wall -Wextra -g -o escobar escobar.c
 ## Execute:
-### ./escobar
+#### ./escobar
 ## Escobar execute in console:
-![Alt Escobar execute console](image https://i.postimg.cc/sDLbHhg9/Escobar-Console.jpg)
+![Escobar execute console](https://i.postimg.cc/sDLbHhg9/Escobar-Console.jpg)
 ## Escobar execute static web page (html) in browser:
-![Alt EEscobar execute static web page (html) in browser](image https://i.postimg.cc/rFsv9JMw/Escobar-Run.jpg)
+![Escobar execute static web page (html) in browser](https://i.postimg.cc/rFsv9JMw/Escobar-Run.jpg)
