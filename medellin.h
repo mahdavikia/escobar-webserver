@@ -52,6 +52,10 @@ void pabloGetMimeType(char *file, char *mime)
     strcpy(mime, "text/html");
   else if (strcmp(dot, ".jpg") == 0)
     strcpy(mime, "image/jpeg");
+  else if (strcmp(dot, ".css") == 0)
+    strcpy(mime, "text/css"); // support CSS included files in web page
+  else if (strcmp(dot, ".js") == 0)
+    strcpy(mime, "application/js"); // support Javascript included files in web page
 }
 
 void pabloGetTimeString(char *buf)
